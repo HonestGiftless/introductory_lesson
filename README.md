@@ -65,9 +65,13 @@ a^b + c^d
 
 ```math
 a + b > c
+```
 
+```math
 a + c > b
+```
 
+```math
 b + c > a
 ```
   
