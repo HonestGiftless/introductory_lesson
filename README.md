@@ -100,7 +100,7 @@ b + c > a
 <p align="center">Примечание. Шахматный король ходит по горизонтали, вертикали и диагонали, но только на 1 клетку.</p>
 
 <p align="center">
-  <img src="https://ucarecdn.com/e759d185-a6d3-47c8-96b2-7b52fa03af09/" align="center">
+  <img src="https://ucarecdn.com/e759d185-a6d3-47c8-96b2-7b52fa03af09/" align="center" width="100">
 </p>
 
 Входные данные | Выходные данные
