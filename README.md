@@ -86,7 +86,7 @@ b + c > a
 <p align="center">Примечание. Шахматная ладья ходит по горизонтали и вертикали.</p>
 
 <p align="center">
-  <img src="https://ucarecdn.com/c13b2aac-577c-45a5-b29e-7136842cb955/" align="center">
+  <img src="https://ucarecdn.com/c13b2aac-577c-45a5-b29e-7136842cb955/" align="center" width="200">
 </p>
 
 Входные данные | Выходные данные
@@ -100,7 +100,7 @@ b + c > a
 <p align="center">Примечание. Шахматный король ходит по горизонтали, вертикали и диагонали, но только на 1 клетку.</p>
 
 <p align="center">
-  <img src="https://ucarecdn.com/e759d185-a6d3-47c8-96b2-7b52fa03af09/" align="center" width="100">
+  <img src="https://ucarecdn.com/e759d185-a6d3-47c8-96b2-7b52fa03af09/" align="center" width="200">
 </p>
 
 Входные данные | Выходные данные
